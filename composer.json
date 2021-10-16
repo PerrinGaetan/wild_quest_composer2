@@ -1,0 +1,16 @@
+{
+    "name": "ibanez2/wild_quest_composer3_autoload",
+    "description": "test initiation composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PerrinGaetan",
+            "email": "perringaetandu31@gmail.com"
+        }
+    ],
+    "require": {}
+}
